@@ -1,8 +1,10 @@
 # sales-predictions
 
 The task is to predict sales of items sold at various stores. 
-The data shows what items sells best, which stores has the most sales, the distribution of item prices, and how some factors can affect sales.
-Linear regression model best predicts sales.
+
+The data shows what items sells best, which stores has the most sales, the distribution of item prices, and how some factors can affect sales. 
+
+Linear regression model best predicts sales. 
 
 Data Dictionary:
 
